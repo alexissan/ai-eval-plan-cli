@@ -1,0 +1,27 @@
+{
+  "name": "ai-eval-plan-cli",
+  "version": "0.1.0",
+  "description": "CLI that turns an AI feature or agent idea into a concrete eval plan (scenarios, metrics, risks) plus a tweet summary.",
+  "main": "index.js",
+  "bin": {
+    "ai-eval-plan": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexissan/ai-eval-plan-cli.git"
+  },
+  "keywords": ["cli", "ai", "eval", "evaluation", "openai"],
+  "author": "Alexis Santos",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexissan/ai-eval-plan-cli/issues"
+  },
+  "homepage": "https://github.com/alexissan/ai-eval-plan-cli#readme",
+  "dependencies": {
+    "openai": "^6.27.0"
+  }
+}
