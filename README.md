@@ -1,6 +1,6 @@
 # AI Eval Plan CLI
 
-Turn an AI feature or agent idea into a concrete evaluation plan in one command.
+Turn vague AI feature ideas into concrete eval plans in one command.
 
 You paste a short description of what you’re building, and `ai-eval-plan` gives you:
 
