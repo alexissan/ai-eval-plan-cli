@@ -70,6 +70,7 @@ Building a "Magic Flow" for AppBrandKit AI: brief -> icon -> ASO storyboard -> s
 ```
 
 Use this to:
-- Design eval plans for new agents/features before you over-build
+- design eval plans for new agents/features before you over-build
 - sanity-check that you’re actually measuring the right behaviours
-- generate quick tweet-sized summaries of what an eval is trying to prove.
+- generate quick tweet-sized summaries of what an eval is trying to prove
+- communicate clearly to non-technical teammates what “success” looks like
